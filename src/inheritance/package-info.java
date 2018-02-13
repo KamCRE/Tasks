@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author lancre
+ *
+ */
+package inheritance;
